@@ -5,12 +5,12 @@
 
 The content in jupyter notebook includes a completed RAG-LLM focusing the cores of RAG-LLM below:
 
-• Retriever: Fetch relevant documents or data.
+• 1. Retriever: Fetch relevant documents or data.
 
-• Generator: An LLM that generates responses using the retrieved context.
+• 2. Generator: An LLM that generates responses using the retrieved context.
 
-• Indexer: Indexing mechanism to store and organize data for efficient retrieval.
+• 3. Indexer: Indexing mechanism to store and organize data for efficient retrieval.
 
-• Orchestrator: Framework or code to combine retrieval, ranking, and generation workflows.
+• 4. Orchestrator: Framework or code to combine retrieval, ranking, and generation workflows.
 
-• Evaluation: Monitor, evaluate, and debug the system's performance.
+• 5. Evaluation: Monitor, evaluate, and debug the system's performance.
